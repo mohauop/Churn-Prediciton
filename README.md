@@ -1,0 +1,1 @@
+I analyzed the dataset, visualized relationships, and reduced features to avoid overfitting. Choosing logistic regression for churn prediction, I employed regularization to enhance model performance. My approach blends data insights, feature reduction, and regularization for effective results. 
